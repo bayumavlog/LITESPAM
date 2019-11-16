@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "BAYU MAVLOG"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
@@ -32,7 +32,7 @@ toilet -f slant "Bukalapak"
 echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mSGB-Team BAYU MAVLOG"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -63,7 +63,7 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mRaja BAYU MAVLOG"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -74,11 +74,11 @@ fi
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
-toilet -f mono9 -F gay "Toked"
+toilet -f mono9 -F gay "KANG BA¥U"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1m1 Kali"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mSGB-Team BAYU MAVLOG"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
