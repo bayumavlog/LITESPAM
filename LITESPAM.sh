@@ -10,7 +10,7 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mIndonesia BAYU MAVLOG""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -155,7 +155,7 @@ echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Danz"
-echo "Mr.Rm"
+echo "Mr.BAY"
 echo "SBGTeam"
 echo "amsitlab"
 echo "Bully Hat"
